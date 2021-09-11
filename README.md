@@ -28,7 +28,7 @@
 
 ### Steps to install RabbitMQ
 * <strong>N.B. - If already installed, don't reinstall</strong>
-* Download the .exe file from the Page as mentioned above in the [Software Required](https://github.com/c86amik/spring-rabbitmq-producer-masterclass#software-required) section
+* Download the .exe file from the Page as mentioned above in the [Software Required](https://github.com/c86amik/spring-rabbitmq-consumer-masterclass#software-required) section
 * Install the exe file in your local machine
 * The above installation will also install the RabbitMQ Command Prompt
 * Open the RabbitMQ Command Prompt
@@ -40,8 +40,8 @@
 
 
 ### Steps to clone and run the application
-* Install [Erlang](https://github.com/c86amik/spring-rabbitmq-producer-masterclass#steps-to-install-erlang)
-* Install [RabbitMQ](https://github.com/c86amik/spring-rabbitmq-producer-masterclass#steps-to-install-rabbitmq)
+* Install [Erlang](https://github.com/c86amik/spring-rabbitmq-consumer-masterclass#steps-to-install-erlang)
+* Install [RabbitMQ](https://github.com/c86amik/spring-rabbitmq-consumer-masterclass#steps-to-install-rabbitmq)
 * Open Git Bash or even you can open Command Prompt (if you are using Windows) or Terminal (if you are using MAC) in your machine
 * Clone the application from github.com as   
 <code>git clone https://github.com/c86amik/spring-rabbitmq-consumer-masterclass.git</code>
