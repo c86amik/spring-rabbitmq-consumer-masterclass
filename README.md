@@ -6,7 +6,7 @@
 * [Java 1.8](https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html)
 * [Spring tool Suite](https://spring.io/tools) or [Eclipse](https://www.eclipse.org/downloads/packages/)
 * [Apache Maven](https://maven.apache.org/download.cgi)
-* [Git Bash](https://gramfile.com/git-bash-download/)
+* [Git Bash](https://git-scm.com/downloads)
 * [Erlang](https://www.erlang.org/downloads)
 * [RabbitMQ](https://www.rabbitmq.com/install-windows.html#installer)
 
@@ -51,4 +51,4 @@
 * The application will start in the port <strong>7115</strong>
 
 ### Testing
-* Once the application started it will consume all the 5 messages in the Queue as published earlier and will proint the data in the console
+* Once the application started it will consume all the 5 messages in the Queue as published earlier and will print the data in the console
